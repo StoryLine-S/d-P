@@ -2,14 +2,11 @@
 
 # d=P Discord Bot GitHub
 
-## Heading 2
+## Alpha
+정식 출시 전. 불안정한 소스코드.
+### 0.0.0
 
-Fruits:
+Github 생성:
 
 - 사과
 - 망고
-
-other fruits:
-
-- 복숭아
-- 청사과
